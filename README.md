@@ -16,11 +16,11 @@ Our goal with this project is to show how an analyst can work with multiple PCAP
 - Integrated OSINT tools into our environment for efficient data ingestion and enhanced threat analysis.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Arkime - Network capture analysis tool for examining network traffic.
+- OSINT tool - Used `urlscan.io` to check IP and URL reputation
+- Malware-Traffic-Analysis - Utilized Malware Traffic Analysis for creating and studying network traffic and malware behavior.
+- Wireshark - Used Wireshark to capture and analyze relevant network packets
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
