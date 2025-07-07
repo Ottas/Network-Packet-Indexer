@@ -18,7 +18,7 @@ Our goal with this project is to show how an analyst can work with multiple PCAP
 ### Tools Used
 
 - Arkime - Network capture analysis tool for examining network traffic.
-- OSINT tool - Used `urlscan.io` to check IP and URL reputation
+- OSINT tools - Used `urlscan.io` to check IP and URL reputation
 - Malware-Traffic-Analysis - Utilized Malware Traffic Analysis for creating and studying network traffic and malware behavior.
 - Wireshark - Used Wireshark to capture and analyze relevant network packets
 
