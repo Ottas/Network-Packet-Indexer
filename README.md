@@ -3,7 +3,7 @@
 
 ## Objective
 
-Our goal with this project is to show how an analyst can work with multiple PCAPs in a more organized way, without getting lost in thousands of packets.`Arkime` groups packets between source and destination, while Wireshark shows every single one. So for the same event, Arkime might show 
+My goal with this project is to show how an analyst can work with multiple PCAPs in a more organized way, without getting lost in thousands of packets.`Arkime` groups packets between source and destination, while Wireshark shows every single one. So for the same event, Arkime might show 
 10 events, but Wireshark could display 20,000 events.That’s why we decided to go deeper into Arkime to show how it can help make analysis clearer and more manageable.
 
 
